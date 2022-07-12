@@ -1,2 +1,4 @@
-# stretch_community
-Portal for resources for the Stretch community
+![](./images/banner.png)
+# Overview
+
+The Stretch Community repository is a portal for resources developed by and shared with the Stretch Community
