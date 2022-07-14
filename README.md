@@ -1,11 +1,14 @@
 ![](./images/banner.png)
 # Overview
 
-The Stretch Community repository is a portal for resources developed by and shared with Stretch users.
+This README provides links to repositories with code for the [Stretch mobile manipulator](https://hello-robot.com/product) from [Hello Robot](https://hello-robot.com). Hello Robot maintains this page, but does not test the code. These links are intended to help members of the Stretch community connect with one another and build on one another's work. 
+
+If you would like us to add, remove, or edit a link to your repository, please email us at <support@hello-robot.com>.
 
 # Repositories
 | Group                                                        | Description                                                  | Repo                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Class Project @ Carnegie Mellon University](https://zackory.com/rc2022/) | "WeHelp, a shared autonomy system aimed for wheelchair users." | [WeHelp(https://github.com/Walleclipse/WeHelp) |
 | [Class Project @ Georgia Tech](https://sites.gatech.edu/robotic-caregivers/) | "The Bottle Butler by Team Red" - demonstration of autonomous water delivery for older adults | [Move_to_table_door](https://github.com/naveenbiitk/Move_to_table_door) |
 | [Emerging Tech @ Avanade](https://www.avanade.com/thinking/research-and-insights/trendlines/emerging-technologies) | Repositories related to Avanade's exploration with Rocos, NextMind and Hello Robot.| [emtech-stretch-labs](https://github.com/Avanade/emtech-stretch-labs)|
 | [Human-Centered Robotics Lab @ University of Washington](https://hcrlab.cs.washington.edu/) | Web interface for Stretch with major improvements that is under active development | [stretch_web_interface](https://github.com/hcrlab/stretch_web_interface) |
