@@ -39,5 +39,8 @@ If you would like us to add, remove, or edit a link to your repository, please e
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Intuitive Computing Laboratory @ Johns Hopkins University](http://intuitivecomputing.jhu.edu/) | "Tool retrieval robot for hospital central sterile processing department."| [icl_stretch_ros](https://github.com/intuitivecomputing/icl_stretch_ros) |
 | [Intuitive Computing Laboratory @ Johns Hopkins University](http://intuitivecomputing.jhu.edu/) | "Web interface for HelloRobot Stretch." | [stretch-web-app](https://github.com/intuitivecomputing/stretch-web-app) |
+| [John Wen Research Group @ Rensselaer Polytechnic Institute](https://www.john-wen.com/) | [Burak Aksoy](https://www.linkedin.com/in/burak-aksoy-9310b5a6)'s repository: "A sandbox repo for 'fun' with Hello Stretch Robots" | [HelloStretchSandbox](https://github.com/burakaksoy/HelloStretchSandbox) |
+
+
 
 
