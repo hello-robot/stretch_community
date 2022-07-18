@@ -1,7 +1,7 @@
 ![](./images/banner.png)
 # Overview
 
-This README provides links to repositories with code for the [Stretch mobile manipulator](https://hello-robot.com/product) from [Hello Robot](https://hello-robot.com). Hello Robot maintains this page, but typically does not test the code. These links are intended to help members of the Stretch community connect with one another and build on one another's work. 
+This README provides links to third-party repositories with code for the [Stretch mobile manipulator](https://hello-robot.com/product) from [Hello Robot](https://hello-robot.com). Hello Robot maintains this page, but typically does not test the code. These links are intended to help members of the Stretch community connect with one another and build on one another's work. 
 
 If you would like us to add, remove, or edit a link to your repository, please email us at <support@hello-robot.com>.
 
