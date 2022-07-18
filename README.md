@@ -33,6 +33,7 @@ If you would like us to add, remove, or edit a link to your repository, please e
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Prof. Zackory Erickson @ Carnegie Mellon University](https://zackory.com/) | Assistive Gym is a simulation system compatible with [OpenAI Gym](https://github.com/openai/gym) for assistive-robotics tasks. It includes a simulation of Stretch. | [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym) |
 | [Human-Centered Robotics Lab @ University of Washington](https://hcrlab.cs.washington.edu/) | Gazebo simulation of Stretch with improvements over [Hello Robot's Gazebo code](https://github.com/hello-robot/stretch_ros/tree/master/stretch_gazebo). This repository from UW includes open assets for an indoor environment and objects | [hcrl_gazebo](https://github.com/hcrlab/hcrl_gazebo) |
+| [Meta AI](https://ai.facebook.com/) | An effort to create a "[Habitat2](https://research.facebook.com/publications/habitat-2-0-training-home-assistants-to-rearrange-their-habitat/) compatible version of the Hello Robot Stretch urdf" that is being led by [Chris Paxton](https://www.linkedin.com/in/chris-paxton-41aba958) | [hab_stretch](https://github.com/cpaxton/hab_stretch) |
 
 ## Other
 | Group                                                        | Description                                                  | Repo                                                         |
@@ -40,6 +41,7 @@ If you would like us to add, remove, or edit a link to your repository, please e
 | [Intuitive Computing Laboratory @ Johns Hopkins University](http://intuitivecomputing.jhu.edu/) | "Tool retrieval robot for hospital central sterile processing department."| [icl_stretch_ros](https://github.com/intuitivecomputing/icl_stretch_ros) |
 | [Intuitive Computing Laboratory @ Johns Hopkins University](http://intuitivecomputing.jhu.edu/) | "Web interface for HelloRobot Stretch." | [stretch-web-app](https://github.com/intuitivecomputing/stretch-web-app) |
 | [John Wen Research Group @ Rensselaer Polytechnic Institute](https://www.john-wen.com/) | [Burak Aksoy](https://www.linkedin.com/in/burak-aksoy-9310b5a6)'s repository: "A sandbox repo for 'fun' with Hello Stretch Robots" | [HelloStretchSandbox](https://github.com/burakaksoy/HelloStretchSandbox) |
+
 
 
 
