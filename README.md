@@ -13,10 +13,7 @@ If you would like us to add, remove, or edit a link to your repository, please e
 | [Meta AI](https://ai.facebook.com/) | Meta AI is creating an ambitious new platform for robotics with leadership from [Soumith Chintala the creator of PyTorch](https://www.linkedin.com/in/soumith) "Fairo is a unified robotics platform developed by researchers at Meta AI." [A blog post included a video with Stretch.](https://ai.facebook.com/blog/droidlet-a-one-stop-shop-for-modularly-building-intelligent-agents/) | [Fairo](https://github.com/facebookresearch/fairo) |
 
 
-
-
-
-# Repositories
+# Community Repositories
 | Group                                                        | Description                                                  | Repo                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Class Project @ Carnegie Mellon University](https://zackory.com/rc2022/) | "WeHelp, a shared autonomy system aimed for wheelchair users." | [WeHelp](https://github.com/Walleclipse/WeHelp) |
