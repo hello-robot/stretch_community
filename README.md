@@ -27,7 +27,7 @@ If you would like us to add, remove, or edit a link to your repository, please e
 | [Class Project @ Carnegie Mellon University](https://zackory.com/rc2022/) | "WeHelp, a shared autonomy system aimed for wheelchair users." | [WeHelp](https://github.com/Walleclipse/WeHelp) |
 | [Class Project @ Georgia Tech](https://sites.gatech.edu/robotic-caregivers/) | "The Bottle Butler by Team Red" - demonstration of autonomous water delivery for older adults | [Move_to_table_door](https://github.com/naveenbiitk/Move_to_table_door) |
 
-# The Community
+## The Community
 | Group                                                        | Description                                                  | Repo                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Emerging Tech @ Avanade](https://www.avanade.com/thinking/research-and-insights/trendlines/emerging-technologies) | Repositories related to Avanade's exploration with Rocos, NextMind and Hello Robot.| [emtech-stretch-labs](https://github.com/Avanade/emtech-stretch-labs)|
