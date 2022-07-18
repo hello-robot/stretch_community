@@ -24,8 +24,10 @@ If you would like us to add, remove, or edit a link to your repository, please e
 | Group                                                        | Description                                                  | Repo                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Class Project @ Carnegie Mellon University](https://zackory.com/rc2022/) | "WeHelp, a shared autonomy system aimed for wheelchair users." | [WeHelp](https://github.com/Walleclipse/WeHelp) |
+| [Class Project @ Carnegie Mellon University](https://zackory.com/rc2022/) | "TouRI - A touring Robot" | [TouRI-Robot](https://github.com/TouRI-Robot) |
 | [Class Project @ Georgia Tech](https://sites.gatech.edu/robotic-caregivers/) | "The Bottle Butler by Team Red" - demonstration of autonomous water delivery for older adults | [Move_to_table_door](https://github.com/naveenbiitk/Move_to_table_door) |
 | [Prof. Charlie Kemp @ Georgia Tech](https://charliekemp.com/) | Various repositories related to the [Robotic Caregivers class at Georgia Tech](https://sites.gatech.edu/robotic-caregivers/) | [prof-charlie-kemp](https://github.com/prof-charlie-kemp) |
+
 
 
 ## Simulators
