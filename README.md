@@ -20,7 +20,7 @@ If you would like us to add, remove, or edit a link to your repository, please e
 | [Prof. Lerrel Pinto's group @ New York University](https://www.lerrelpinto.com/group/) | This repository has code for Visual Imitation through Nearest Neighbors (VINN). Publication: [*"The Surprising Effectiveness of Representation Learning for Visual Imitation"*](http://www.roboticsproceedings.org/rss18/p010.pdf) | [VINN](https://github.com/jyopari/VINN/tree/main) |
 | [Robotic Caregiving and Human Interaction Lab @ Carnegie Mellon University](https://rchi-lab.github.io/) | Publication: [*"Bodies Uncovered: Learning to Manipulate Real Blankets Around People via Physics Simulations"*](https://ieeexplore.ieee.org/document/9681203) | [bodies-uncovered](https://github.com/RCHI-Lab/bodies-uncovered) |
 
-## Class Projects
+## Class Related
 | Group                                                        | Description                                                  | Repo                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Class Project @ Carnegie Mellon University](https://zackory.com/rc2022/) | "WeHelp, a shared autonomy system aimed for wheelchair users." | [WeHelp](https://github.com/Walleclipse/WeHelp) |
