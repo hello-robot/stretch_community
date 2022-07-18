@@ -27,11 +27,16 @@ If you would like us to add, remove, or edit a link to your repository, please e
 | [Class Project @ Georgia Tech](https://sites.gatech.edu/robotic-caregivers/) | "The Bottle Butler by Team Red" - demonstration of autonomous water delivery for older adults | [Move_to_table_door](https://github.com/naveenbiitk/Move_to_table_door) |
 | [Prof. Charlie Kemp @ Georgia Tech](https://charliekemp.com/) | Various repositories related to the [Robotic Caregivers class at Georgia Tech](https://sites.gatech.edu/robotic-caregivers/) | [prof-charlie-kemp](https://github.com/prof-charlie-kemp) |
 
-## Other
+
+## Simulators
 | Group                                                        | Description                                                  | Repo                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Prof. Zackory Erickson @ Carnegie Mellon University](https://zackory.com/) | Assistive Gym is a simulation system compatible with [OpenAI Gym](https://github.com/openai/gym) for assistive-robotics tasks. It includes a simulation of Stretch. | [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym) |
-| [Human-Centered Robotics Lab @ University of Washington](https://hcrlab.cs.washington.edu/) | Stretch simulation with improvements and open assets for an indoor environment and objects | [hcrl_gazebo](https://github.com/hcrlab/hcrl_gazebo) |
+| [Human-Centered Robotics Lab @ University of Washington](https://hcrlab.cs.washington.edu/) | Gazebo simulation of Stretch with improvements over [Hello Robot's Gazebo code](https://github.com/hello-robot/stretch_ros/tree/master/stretch_gazebo). This repository from UW includes open assets for an indoor environment and objects | [hcrl_gazebo](https://github.com/hcrlab/hcrl_gazebo) |
+
+## Other
+| Group                                                        | Description                                                  | Repo                                                         |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [Intuitive Computing Laboratory @ Johns Hopkins University](http://intuitivecomputing.jhu.edu/) | Tool retrieval robot for hospital central sterile processing departmen | [icl_stretch_ros](https://github.com/intuitivecomputing/icl_stretch_ros) |
 | [Intuitive Computing Laboratory @ Johns Hopkins University](http://intuitivecomputing.jhu.edu/) | Web interface for HelloRobot Stretch                         | [stretch-web-app](https://github.com/intuitivecomputing/stretch-web-app) |
 
