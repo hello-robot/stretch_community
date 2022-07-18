@@ -37,7 +37,7 @@ If you would like us to add, remove, or edit a link to your repository, please e
 ## Other
 | Group                                                        | Description                                                  | Repo                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Intuitive Computing Laboratory @ Johns Hopkins University](http://intuitivecomputing.jhu.edu/) | Tool retrieval robot for hospital central sterile processing departmen | [icl_stretch_ros](https://github.com/intuitivecomputing/icl_stretch_ros) |
-| [Intuitive Computing Laboratory @ Johns Hopkins University](http://intuitivecomputing.jhu.edu/) | Web interface for HelloRobot Stretch                         | [stretch-web-app](https://github.com/intuitivecomputing/stretch-web-app) |
+| [Intuitive Computing Laboratory @ Johns Hopkins University](http://intuitivecomputing.jhu.edu/) | "Tool retrieval robot for hospital central sterile processing department."| [icl_stretch_ros](https://github.com/intuitivecomputing/icl_stretch_ros) |
+| [Intuitive Computing Laboratory @ Johns Hopkins University](http://intuitivecomputing.jhu.edu/) | "Web interface for HelloRobot Stretch." | [stretch-web-app](https://github.com/intuitivecomputing/stretch-web-app) |
 
 
