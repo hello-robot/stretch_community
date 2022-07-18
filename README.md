@@ -29,16 +29,12 @@ If you would like us to add, remove, or edit a link to your repository, please e
 | [Code for Class @ Carnegie Mellon University](https://zackory.com/rc2022/) | "Test scripts of Hello Robot's Stretch RE1 for Midterm and Final project during coursework of 16887 at Robotics Institute, CMU" shared by [Jashkumar Diyora](https://www.linkedin.com/in/jashdiyora) | [Robotic-Caregivers-16887](https://github.com/Jash-Diyora/Robotic-Caregivers-16887) |
 | [Prof. Charlie Kemp @ Georgia Tech](https://charliekemp.com/) | Various repositories related to the [Robotic Caregivers class at Georgia Tech](https://sites.gatech.edu/robotic-caregivers/) | [prof-charlie-kemp](https://github.com/prof-charlie-kemp) |
 
-
-
-
-
 ## Simulators
 | Group                                                        | Description                                                  | Repo                                                         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [Prof. Zackory Erickson @ Carnegie Mellon University](https://zackory.com/) | Assistive Gym is a simulation system compatible with [OpenAI Gym](https://github.com/openai/gym) for assistive-robotics tasks. It includes a simulation of Stretch. | [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym) |
 | [Human-Centered Robotics Lab @ University of Washington](https://hcrlab.cs.washington.edu/) | Gazebo simulation of Stretch with improvements over [Hello Robot's Gazebo code](https://github.com/hello-robot/stretch_ros/tree/master/stretch_gazebo). This repository from UW includes open assets for an indoor environment and objects | [hcrl_gazebo](https://github.com/hcrlab/hcrl_gazebo) |
 | [Meta AI](https://ai.facebook.com/) | An effort to create a "[Habitat2](https://research.facebook.com/publications/habitat-2-0-training-home-assistants-to-rearrange-their-habitat/) compatible version of the Hello Robot Stretch urdf" that is being led by [Chris Paxton](https://www.linkedin.com/in/chris-paxton-41aba958) | [hab_stretch](https://github.com/cpaxton/hab_stretch) |
+| [Prof. Zackory Erickson @ Carnegie Mellon University](https://zackory.com/) | Assistive Gym is a simulation system compatible with [OpenAI Gym](https://github.com/openai/gym) for assistive-robotics tasks. It includes a simulation of Stretch. | [assistive-gym](https://github.com/Healthcare-Robotics/assistive-gym) |
 
 ## Other
 | Group                                                        | Description                                                  | Repo                                                         |
@@ -50,14 +46,3 @@ If you would like us to add, remove, or edit a link to your repository, please e
 | [Intuitive Computing Laboratory @ Johns Hopkins University](http://intuitivecomputing.jhu.edu/) | "Web interface for HelloRobot Stretch." | [stretch-web-app](https://github.com/intuitivecomputing/stretch-web-app) |
 | [John Wen Research Group @ Rensselaer Polytechnic Institute](https://www.john-wen.com/) | [Burak Aksoy](https://www.linkedin.com/in/burak-aksoy-9310b5a6)'s repository: "A sandbox repo for 'fun' with Hello Stretch Robots" | [HelloStretchSandbox](https://github.com/burakaksoy/HelloStretchSandbox) |
 | [Matt Lamsey](https://www.linkedin.com/in/matthew-lamsey-901502166) | "for testing ROS with a Hello Robot Stretch RE1" | [stretch_testing](https://github.com/mlamsey/stretch_testing) |
-
-
-
-
-
-
-
-
-
-
-
