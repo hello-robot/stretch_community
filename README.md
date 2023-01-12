@@ -27,6 +27,7 @@ If you would like us to add, remove, or edit a link to your repository, please e
 | [Class Project @ Carnegie Mellon University](https://zackory.com/rc2022/) | "WeHelp, a shared autonomy system aimed for wheelchair users." | [WeHelp](https://github.com/Walleclipse/WeHelp) |
 | [Class Project @ Carnegie Mellon University](https://zackory.com/rc2022/) | "TouRI - A touring Robot" | [TouRI-Robot](https://github.com/TouRI-Robot) |
 | [Class Project @ Georgia Tech](https://sites.gatech.edu/robotic-caregivers/) | "The Bottle Butler by Team Red" - demonstration of autonomous water delivery for older adults | [Move_to_table_door](https://github.com/naveenbiitk/Move_to_table_door) |
+| [Class Project @ Georgia Tech](https://sites.gatech.edu/robotic-caregivers/) | "Stretch with Stretch by Team Blue" - collaborative exercising with Stretch | [stretch-caregiving-class](https://github.com/mlamsey/stretch-caregiving-class) |
 | [Code for Class @ Carnegie Mellon University](https://zackory.com/rc2022/) | "Test scripts of Hello Robot's Stretch RE1 for Midterm and Final project during coursework of 16887 at Robotics Institute, CMU" shared by [Jashkumar Diyora](https://www.linkedin.com/in/jashdiyora) | [Robotic-Caregivers-16887](https://github.com/Jash-Diyora/Robotic-Caregivers-16887) |
 | [Prof. Charlie Kemp @ Georgia Tech](https://charliekemp.com/) | Various repositories related to the [Robotic Caregivers class at Georgia Tech](https://sites.gatech.edu/robotic-caregivers/) | [prof-charlie-kemp](https://github.com/prof-charlie-kemp) |
 
