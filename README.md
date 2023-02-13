@@ -22,6 +22,8 @@ If you would like us to add, remove, or edit a link to your repository, please e
 | [Bahl, Gupta & Pathak @ Carnegie Mellon University](https://human2robot.github.io/) |"WHIRL: In-the-Wild Human Imitating Robot Learning" "one-shot generalization and success in real-world settings, including 20 different manipulation tasks in the wild" Publication: [*"Human-to-Robot Imitation in the Wild"*](https://roboticsconference.org/program/papers/026/)|[*Code Coming Soon*](https://human2robot.github.io/)|
 | [Prof. Lerrel Pinto's group @ New York University](https://www.lerrelpinto.com/group/) | This repository has code for Visual Imitation through Nearest Neighbors (VINN). Publication: [*"The Surprising Effectiveness of Representation Learning for Visual Imitation"*](http://www.roboticsproceedings.org/rss18/p010.pdf) | [VINN](https://github.com/jyopari/VINN/tree/main) |
 | [Robotic Caregiving and Human Interaction Lab @ Carnegie Mellon University](https://rchi-lab.github.io/) | Publication: [*"Bodies Uncovered: Learning to Manipulate Real Blankets Around People via Physics Simulations"*](https://ieeexplore.ieee.org/document/9681203) | [bodies-uncovered](https://github.com/RCHI-Lab/bodies-uncovered) |
+| [Boivin, M., Lin, KY., Wehner, M. et al @ University of California, Santa Cruz](https://wehner.soe.ucsc.edu/home) | Publication: [Proprioceptive Touch of a Soft Actuator Containing an Embedded Intrinsically Soft Sensor using Kinesthetic Feedback. Intell Robot Syst 107, 28 (2023).
+](https://doi.org/10.1007/s10846-023-01815-4) | Not available. |
 
 ## Class Related
 | Group                                                        | Description                                                  | Repo                                                         |
